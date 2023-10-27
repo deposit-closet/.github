@@ -6,8 +6,8 @@ We are a group who are interested in financial analysis and visualization of the
 ## 📁 Repositories
 
 1. **BackBond** - [Repo Link](https://github.com/deposit-closet/BackBond) 
-    - This repository is centered around the backend of the project which serves data to the frontend.
-    - In addition, the backend also has an integrated update feature which will check for new data in upstream sources.
+    - This repository is centered around the backend of the project which serves data to the frontend and other clients.
+    - In addition, the backend also updates the data on a daily basis so there are no abcense of data.
 2. **Frontbond** - (Work in Progress)
 
   
